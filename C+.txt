@@ -1,0 +1,4 @@
+Consider an organization having N employees .
+Each employee is having name,salary.
+Develop a module in C++ which perform the addition/concatenation of names and average salaries.
+This program should use the concept of function overloading for adding salaries and name.+ 
